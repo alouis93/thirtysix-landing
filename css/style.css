@@ -249,6 +249,7 @@ header .carousel-indicators li {
 	height: 52px;
 	background: url(../img/badge-apple.png) no-repeat;
 	color: white;
+	margin: 20px;
 	background-size: 100% 100%;
 }
 
@@ -257,7 +258,7 @@ header .carousel-indicators li {
 	height: 52px;
 	background: url(../img/badge-android.png) no-repeat;
 	color: white;
-	margin-left: 50px;
+	margin: 20px;
 	background-size: cover;
 }
 
